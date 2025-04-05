@@ -1,4 +1,4 @@
-# Creative User Identification from Code Writing
+# Unveiling Creativity in Student Code: A Gaussian Mixture Model Approach
 
 This repository contains Jupyter notebooks for analyzing and identifying creative users based on their code-writing patterns.
 
